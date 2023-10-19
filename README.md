@@ -37,7 +37,7 @@ Idea maker, creative, smart
 ## Get in Touch
 
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/mohamadhosein-shabani-809a81206)
-- Email: [Send Me](mohammad.sh.w437@gmail.com)
+- Email: [Contact Me](mohammad.sh.w437@gmail.com)
 
 ## How to Reach Me
 

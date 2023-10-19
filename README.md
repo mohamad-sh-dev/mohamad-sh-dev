@@ -10,7 +10,7 @@ Hello there! 👋 I'm Mohammad Hossein, a passionate Node.js backend developer w
 - **Projects:** Successfully delivered projects, showcasing a diverse skill set.
 
 ## General Skills
-Strong team spirit and positive interaction with technical and product team members (this is one of the main pillars of our collection).
+Strong team spirit and positive interaction with technical and product team members.
 Diligent, tireless and eager to help other members
 Committed, regular and conscientious
 Idea maker, creative, smart

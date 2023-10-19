@@ -9,12 +9,24 @@ Hello there! 👋 I'm Mohammad Hossein, a passionate Node.js backend developer w
 - **Experience:** 2 years in Node.js backend development.
 - **Projects:** Successfully delivered projects, showcasing a diverse skill set.
 
-## Skills
+## General Skills
+Strong team spirit and positive interaction with technical and product team members (this is one of the main pillars of our collection).
+Diligent, tireless and eager to help other members
+Committed, regular and conscientious
+Idea maker, creative, smart
+
+## Special Skills
 
 - **Backend Development:** Proficient in Node.js and frameworks like Express.
-- **APIs:** Extensive experience in designing and implementing RESTful APIs.
-- **Databases:** Worked with  MongoDB, MySQL ,PostgresQL
+- **APIs:** Extensive experience in designing and implementing RESTful APIs HTTP and familiar with GraphQL.
+- **Databases:** Worked with  MongoDB, MySQL ,PostgresQL , Redis
 - **Testing:** Skilled in unit and component testing to ensure robust code.
+- **Debuging:** Ability to debug and troubleshoot code
+- **Tools:** 
+  - Proficient in Git and gitlab , 
+  - Experience working with code quality checking tools such as [Sonarqube](https://www.sonarsource.com/products/sonarqube/)
+  - Familiar with Devops
+  - Capable of documenting like Swagger and writing reports 
 
 
 ## Architecture

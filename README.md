@@ -1,13 +1,15 @@
 # Hi there 👋
+
 ## Introduction
-Hello there! 👋 I'm **Mohammad Hossein**, a passionate **Node.js backend developer** with 2 years of hands-on experience.  
+
+I'm **Mohammad Hossein**, a passionate **Node.js backend developer** with 2 years of hands-on experience.  
 I thrive on building scalable and efficient solutions, and I'm well-versed in various aspects of backend development, including REST APIs, databases, testing, and architectural design.
+
 ---
 ## Professional Background
-### Experience
-- 2 years in Node.js backend development.
-### Projects
-- Successfully delivered projects showcasing a diverse skill set.
+
+With over 3 years of experience in Node.js backend development, I have successfully delivered a wide range of projects demonstrating diverse technical skills.
+
 ---
 ## General Skills
 - Strong team spirit and positive interaction with technical and product team members.  
@@ -39,10 +41,14 @@ I thrive on building scalable and efficient solutions, and I'm well-versed in va
 ### Scalability
 - Developed solutions that scale seamlessly with growing demands.
 ---
+
 ## System Design Resources
+
 Check out my [**System Design Principles**](https://github.com/mohamad-sh-dev/system-design-principles) repository where I maintain a collection of system design principles and concepts.  
 I regularly add new principles and best practices to help others learn and understand various aspects of system design.
+
 ---
+
 ## Get in Touch
 - **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/mohamadhosein-shabani-809a81206)  
 - **Email:** [mohammad.sh.w437@gmail.com](mailto:mohammad.sh.w437@gmail.com)

@@ -1,59 +1,33 @@
-# Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is MohammadHossein
+========================================================================================================================================
 
-## Introduction
+Backend Engineer
+----------------
 
-I'm **Mohammad Hossein**, a passionate **Node.js backend developer** with 2 years of hands-on experience.  
-I thrive on building scalable and efficient solutions, and I'm well-versed in various aspects of backend development, including REST APIs, databases, testing, and architectural design.
+  I'm Results-driven Back-End Engineer with over four years of experience, proficient in Node.js, TypeScript, and Go, specializing in designing and building scalable systems .
+  #### I emphasize clean architecture, observability, and automation through CI/CD pipelines, containerization, and infrastructure-as-code—ensuring fast, repeatable delivery.
+  ####  I also enjoy applying advanced patterns like SAGA for distributed transactions, idempotent messaging, and resilient retries to maintain reliability at scale.
 
----
-## Professional Background
-
-With over 3 years of experience in Node.js backend development, I have successfully delivered a wide range of projects demonstrating diverse technical skills.
-
----
-## General Skills
-- Strong team spirit and positive interaction with technical and product team members.  
-- Diligent, tireless, and eager to help other members.  
-- Committed, consistent, and conscientious.  
-- Creative and idea-driven problem solver.
----
-## Special Skills
-### Backend Development
-- Proficient in Node.js and frameworks like **Express**.
-### APIs
-- Extensive experience designing and implementing **RESTful APIs** over HTTP.  
-- Familiar with **GraphQL**.
-### Databases
-- Worked with **MongoDB**, **MySQL**, **PostgreSQL**, and **Redis**.
-### Testing
-- Skilled in **unit** and **component testing** to ensure robust code.
-### Debugging
-- Strong ability to debug and troubleshoot complex issues.
-### Tools
-- Proficient with **Git** and **GitLab**.  
-- Experience with code quality tools such as [SonarQube](https://www.sonarsource.com/products/sonarqube/).  
-- Familiar with **DevOps** concepts.  
-- Capable of writing API documentation (e.g., **Swagger**) and technical reports.
----
-## Architecture
-### Design Patterns
-- Implemented **MVC architecture**.
-### Scalability
-- Developed solutions that scale seamlessly with growing demands.
----
-
-## System Design Resources
-
-Check out my [**System Design Principles**](https://github.com/mohamad-sh-dev/system-design-principles) repository where I maintain a collection of system design principles and concepts.  
-I regularly add new principles and best practices to help others learn and understand various aspects of system design.
+  #### What drives me is continuous learning, meantoring others, and solving tough engineering challenges—translating complex requirements into real, measurable results.
 
 ---
 
-## Get in Touch
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/mohamadhosein-shabani-809a81206)  
-- **Email:** [mohammad.sh.w437@gmail.com](mailto:mohammad.sh.w437@gmail.com)
----
-## How to Reach Me
-Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect.  
-I'm always open to discussions and new challenges!
-**Happy coding! 🚀**
+* 🌍  I'm based in Iran
+* ✉️  You can contact me at [mohammad.sh.w437@gmail.com](mailto:mohammad.sh.w437@gmail.com)
+* 🧠  I'm currently learning system design principles
+* 💬  Check out my [System Design Principles](https://github.com/mohamad-sh-dev/system-design-principles) repository where I maintain a collection of system design principles and concepts.
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://resend.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/resend-colored-dark.svg" alt="Resend" title="Resend" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/mohamad-sh-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/mohamadhosein-shabani/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.stackoverflow.com/users/16890386/mohammad-sh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/mohamad-sh-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamad-sh-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/mohamad-sh-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-sh-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
